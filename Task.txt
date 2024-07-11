@@ -1,0 +1,59 @@
+Day 1: Introduction to Python
+Task: Learn the basics of Python, including installation and setting up the environment.
+Website: Python.org - Getting Started
+
+Day 2: Python Syntax and Variables
+Task: Understand Python syntax, variables, and basic data types.
+Website: W3Schools - Python Syntax
+
+Day 3: Basic Operators and Control Flow
+Task: Learn about arithmetic, comparison, logical operators, if-else statements, for loops, and while loops.
+Website: Programiz - Python Operators & GeeksforGeeks - Python Control Flow
+
+Day 4: Functions and Modules
+Task: Understand how to define and call functions and how to use modules.
+Website: Real Python - Defining Your Own Python Function & W3Schools - Python Modules
+
+Day 5: Data Structures (Lists, Tuples, Sets, and Dictionaries)
+Task: Learn about lists, tuples, sets, and dictionaries.
+Website: W3Schools - Python Lists, Programiz - Python Tuple and Set, & GeeksforGeeks - Python Dictionary
+
+Day 6: List Comprehensions and Lambda Functions
+Task: Learn about list comprehensions and lambda functions.
+Website: Real Python - List Comprehensions
+
+Day 7: File Handling and Error Handling
+Task: Learn to read from and write to files, and study exception handling with try-except blocks.
+Website: Programiz - Python File Operation & GeeksforGeeks - Python Exception Handling
+
+Day 8: Introduction to Numpy
+Task: Learn the basics of NumPy, a fundamental package for scientific computing.
+Website: NumPy - Quickstart Tutorial
+
+Day 9: Introduction to Pandas
+Task: Understand the basics of Pandas for data manipulation and analysis.
+Website: Pandas - Getting Started
+
+Day 10: Data Visualization with Matplotlib
+Task: Learn how to visualize data using Matplotlib.
+Website: Matplotlib - Tutorials
+
+Day 11: Data Visualization with Seaborn
+Task: Study Seaborn for statistical data visualization.
+Website: Seaborn - Tutorial
+
+Day 12: Introduction to Scikit-Learn
+Task: Learn the basics of Scikit-Learn, a key library for machine learning.
+Website: Scikit-Learn - Getting Started
+
+Day 13: Supervised Learning with Scikit-Learn
+Task: Understand how to implement supervised learning algorithms using Scikit-Learn.
+Website: Scikit-Learn - Supervised Learning
+
+Day 14: Unsupervised Learning with Scikit-Learn
+Task: Study unsupervised learning algorithms using Scikit-Learn.
+Website: Scikit-Learn - Unsupervised Learning
+
+Day 15: Practice Project
+Task: Apply what you've learned by working on a small project, such as a simple ML model using Scikit-Learn.
+Website: Kaggle - Python Code
